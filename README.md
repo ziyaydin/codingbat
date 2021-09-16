@@ -7,7 +7,7 @@ This exercise is optional. There is no grading pressure or timing pressure. Howe
 ## How to submit
 
 1. **Fork** this base repository.
-2. **Clone** the forked repository (`https://github.com/<your-id>/codingbat`) to your computer. This repository should be a different folder from `mis3640` folder or any other GitHub repository folder.
+2. **Clone** the forked repository (`https://github.com/<your-id>/codingbat`) to your computer. This repository should be a different folder from `oim3640` folder or any other GitHub repository folder.
 3. Read [my solution demo code](warmup-1/sleep_in.py) before you start.
 4. **Commit and push** to GitHub when you finish one or several exercises. Check the update on your personal GitHub page.
 5. If you have difficulty solving problems, you can eiter
