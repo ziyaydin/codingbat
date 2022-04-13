@@ -10,13 +10,13 @@
 #             return i[0] and 0
 
 
-def round10(num):
-    if num >= 5:
-        return 10
-    elif num
-    elif num >= 15:
-        return 20
-    elif num
+# def round10(num):
+#     if num >= 5:
+#         return 10
+#     elif num
+#     elif num >= 15:
+#         return 20
+#     elif num
 
 # print(round10(15))
 
