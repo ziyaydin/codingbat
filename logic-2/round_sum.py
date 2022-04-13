@@ -18,9 +18,11 @@ def round10(num):
         return 20
     elif num
 
-print(round10(15))
-
+# print(round10(15))
 
 
 def round_sum(a, b, c):
-    pass
+  def round10(num):
+    return (num+5)/10*10
+
+  return round10(a)+round10(b)+round10(c)
