@@ -1,5 +1,5 @@
 #Return the number of times that the string "hi" appears anywhere in the given string.
-
+#Got help from https://gregorulm.com/coding-bat-python-string-2/
 
 def count_hi(str):
     hi = 'hi'
